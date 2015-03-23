@@ -13,7 +13,7 @@ OPTIND=1
 class=""
 odinID=""
 email=""
-formletter="/home/geonicol/solaris/karla/data/karla_response_form_letter.txt"
+formletter="/u/$USER/karla/data/karla_response_form_letter.txt"
 theDate=`date`
 myEmail=$USER@pdx.edu
 
